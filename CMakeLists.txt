@@ -1,0 +1,4 @@
+sofa_add_plugin(STLIB STLIB)
+sofa_add_plugin(SoftRobots SoftRobots)
+sofa_add_plugin(ModelOrderReduction ModelOrderReduction)
+sofa_add_plugin(SofaQtQuick SofaQtQuick)
