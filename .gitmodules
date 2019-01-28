@@ -1,0 +1,15 @@
+[submodule "SoftRobots"]
+	path = SoftRobots
+	url = git@github.com:SofaDefrost/SoftRobots.git
+[submodule "STLIB"]
+	path = STLIB
+	url = https://github.com/SofaDefrost/STLIB
+[submodule "ModelOrderReduction"]
+	path = ModelOrderReduction
+	url = git@github.com:SofaDefrost/ModelOrderReduction.git
+[submodule "SofaQtQuick"]
+	path = SofaQtQuick
+	url = git@github.com:SofaDefrost/SofaQtQuick.git
+[submodule "sofa"]
+	path = sofa
+	url = git@github.com:SofaDefrost/sofa.git
