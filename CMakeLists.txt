@@ -12,9 +12,6 @@ sofa_add_plugin(ModelOrderReduction ModelOrderReduction)
 sofa_add_plugin(SofaQtQuick SofaQtQuick)
 
 #PLUGIN OPTIONS
-set(PLUGIN_SOFAQTQUICK "ON" CACHE BOOL "" FORCE)
-set(PLUGIN_SOFAQTQUICKGUI "ON" CACHE BOOL "" FORCE)
-
 set(PLUGIN_STLIB "ON" CACHE BOOL "" FORCE)
 set(PLUGIN_SOFTROBOTS "ON" CACHE BOOL "" FORCE)
 
